@@ -1,0 +1,26 @@
+{
+  "files": [
+    "src/main/java/edge/PatternBindingEdgeCases.java"
+  ],
+  "exclude_patterns": [
+    "**/build/**",
+    "**/target/**",
+    "**/out/**",
+    "**/.gradle/**",
+    "**/generated/**",
+    "**/generated-sources/**"
+  ],
+  "exclude_files": [],
+  "test_files": [],
+  "test_patterns": [
+    "**/src/test/**",
+    "**/test/**"
+  ],
+  "analyzer_meta": {
+    "name": "java",
+    "enabled": true,
+    "meta": {
+      "runtime_version": 21
+    }
+  }
+}
